@@ -1,0 +1,90 @@
+{
+	"Esteban":{
+		"sovanta": "21/11/2011",
+		"birthday": "08/01/1988"
+	},
+	"Martin Valdes de Leon":{
+		"sovanta":"19/03/2012",
+		"birthday":"28/06/1986"
+	},
+	"Diego":{
+		"sovanta": "11/06/2012",
+		"birthday":"29/08/1984"
+	},
+    "Leo":{
+        "sovanta":"03/09/2012",
+        "birthday":"25/10/1986"
+    },
+    "Eze Latigo":{
+        "sovanta":"14/02/2013",
+        "birthday":"23/06/1982"
+    },
+    "Ale Mago":{
+        "sovanta":"21/03/2013",
+        "birthday":"07/10/1983"
+    },
+    "Sole":{
+        "sovanta":"06/01/2014",
+        "birthday":"18/10/1983"
+    },
+    "Alan":{
+        "sovanta":"02/06/2014",
+        "birthday":"20/08/1988"
+    },
+    "Cris":{
+        "sovanta":"02/06/2014",
+        "birthday":"08/12/1975"
+    },
+    "Richard":{
+        "sovanta":"11/08/2014",
+        "birthday":"30/05/1988"
+    },
+    "Tavo":{
+        "sovanta":"06/10/2014",
+        "birthday":"08/02/1989"
+    },
+    "Mati":{
+        "sovanta":"10/11/2014",
+        "birthday":"20/01/1987"
+    },
+    "Martin Gauna":{
+        "sovanta":"29/06/2015",
+        "birthday":"26/07/1988"
+    },
+    "Marina":{
+        "sovanta":"26/08/2015",
+        "birthday":"11/05/1984"
+    },
+    "Ariel":{
+        "sovanta":"07/09/2015",
+        "birthday":"04/09/1985"
+    },
+    "Fer":{
+        "sovanta":"01/10/2015",
+        "birthday":"05/04/1985"
+     },
+    "Sam":{
+        "sovanta":"12/10/2015",
+        "birthday":"02/06/1984"
+    },
+    "Sebastian":{
+        "sovanta":"04/01/2016",
+        "birthday":"10/05/1975"
+    },
+    "Agustin":{
+        "sovanta":"06/01/2016",
+        "birthday":"04/05/1985"
+    },
+    "Vero":{
+        "sovanta":"06/06/2016",
+        "birthday":"25/08/1990"
+    },
+    "Eze C":{
+        "sovanta":"01/10/2016",
+        "birthday":"27/09/1989"
+    },
+    "David":{
+        "sovanta":"04/10/2016",
+        "birthday":"01/11/1986"
+    }
+}

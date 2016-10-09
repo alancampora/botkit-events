@@ -136,6 +136,14 @@ controller.hears(['hello', 'hi'], 'message_received', function(bot, message) {
 });
 
 
+
+controller.hears(['como se pronuncia git'], 'message_received', function(bot, message) {
+    controller.storage.users.get(message.user, function(err, user) {
+        bot.reply(message, 'Vo fuma! Y Pronuncialo como quieras');
+    });
+});
+
+
 controller.hears(['structured'], 'message_received', function(bot, message) {
 
     bot.startConversation(message, function(err, convo) {
